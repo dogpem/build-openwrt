@@ -126,9 +126,9 @@ CONFIG_PACKAGE_watchcat=y                # 系统看门狗
 CONFIG_PACKAGE_zerotier=y                # ZeroTier网络工具
 CONFIG_PARTED_READLINE=y                 # parted的readline支持
 
-CONFIG_PACKAGE_luci-app-adguardhome=y  # AdGuard Home 广告拦截工具
-CONFIG_PACKAGE_luci-app-ddns-go=y  # DDNS-Go（动态域名解析）
-CONFIG_PACKAGE_luci-app-frpc=y  # FRP 客户端（内网穿透）
+# CONFIG_PACKAGE_luci-app-adguardhome=y  # AdGuard Home 广告拦截工具
+# CONFIG_PACKAGE_luci-app-ddns-go=y  # DDNS-Go（动态域名解析）
+# CONFIG_PACKAGE_luci-app-frpc=y  # FRP 客户端（内网穿透）
 #CONFIG_PACKAGE_luci-app-homebox=y  # Homebox（家庭网络管理工具）
 #CONFIG_PACKAGE_luci-theme-kucat=y  # KuCat 主题
 #CONFIG_PACKAGE_luci-app-zerotier=y  # ZeroTier VPN 支持（已存在，确保启用）
